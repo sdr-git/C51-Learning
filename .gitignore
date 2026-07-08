@@ -1,0 +1,22 @@
+# Keil output folders
+Objects/
+Listings/
+
+# Build outputs
+*.axf
+*.o
+*.d
+*.crf
+*.dep
+*.map
+*.lst
+*.lnp
+*.tmp
+*.bak
+
+# Hex/Bin（如果需要发布固件，可以删除下面两行）
+
+
+# Windows
+Thumbs.db
+Desktop.ini
